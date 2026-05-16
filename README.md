@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm a Computer Science student focused on quantitative systems
 
-<!--
-**BENaifar/BENaifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modular financial computation systems inspired by real-world derivatives infrastructure.
 
-Here are some ideas to get you started:
+## Current focus
+- Options pricing engine (Black-Scholes, Monte Carlo, Binomial Trees, FDM)
+- Market data architecture (curves, snapshots, calibration pipelines)
+- Numerical methods and stochastic simulation systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Engineering principles
+- Clean modular architecture
+- Strong type safety
+- Test-driven validation
+- Separation of pricing logic and market data
+- Deterministic numerical behavior where possible
+
+## Interests
+Quantitative finance • ML systems • backend engineering • numerical computing
+
+## Current flagship project
+Options Pricing Engine  
+
+## Languages
+Arabic • French • English
